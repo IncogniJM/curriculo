@@ -41,18 +41,18 @@ Desenvolvedor Back-end PHP
 
 * **Vios Tecnologia** (Agosto 2014 - Setembro 2017)
 
-> - Assistência em todos os aspectos no sistema da empresa: Correção de bugs, desenvolvimento de novas funcionalidades, manutenção do banco de dados, importação de dados de novos clientes, suporte aos clientes, integrações com outros sistemas, etc.
-> - Desenvolvimento do Sistema de Administração de Advocacias, utilizando programação PHP, banco de dados MySQL, AJAX (JQUERY), Javascript, Web Service para integração com outros sistemas, CSS, HTML.
+> \- Assistência em todos os aspectos no sistema da empresa: Correção de bugs, desenvolvimento de novas funcionalidades, manutenção do banco de dados, importação de dados de novos clientes, suporte aos clientes, integrações com outros sistemas, etc.
+> <br>- Desenvolvimento do Sistema de Administração de Advocacias, utilizando programação PHP, banco de dados MySQL, AJAX (JQUERY), Javascript, Web Service para integração com outros sistemas, CSS, HTML.
 
 * **AWKTec** (Junho 2011 - Outubro 2012)
 
-> - Manutenção no sistema do Corpo de Bombeiros de Santa Catarina, corrigindo bugs, criando pequenas novas funcionalidades e testando o sistema antes da implementação.
-> - Desenvolvimento do Sistema e193 do Corpo de Bombeiros Militar de Santa Catarina utilizando programação PHP, banco de dados PostgreSQL, CSS, AJAX (JQUERY), Javascript.
-> - Desenvolvimento do sistema de controle de prazos do Corpo de Bombeiros Militar de Santa Catarina utilizando programação PHP, banco de dados PostgreSQL.
+> \- Manutenção no sistema do Corpo de Bombeiros de Santa Catarina, corrigindo bugs, criando pequenas novas funcionalidades e testando o sistema antes da implementação.
+> <br>- Desenvolvimento do Sistema e193 do Corpo de Bombeiros Militar de Santa Catarina utilizando programação PHP, banco de dados PostgreSQL, CSS, AJAX (JQUERY), Javascript.
+> <br>- Desenvolvimento do sistema de controle de prazos do Corpo de Bombeiros Militar de Santa Catarina utilizando programação PHP, banco de dados PostgreSQL.
 
 * **Freelance**
 
-> - Diversos trabalhos, a grande maioria sendo de pequeno porte, como correção de bugs, criação de pequenas funcionalidades ou alterações de algumas funcionalidades de sistemas já desenvolvidos.
+> \- Diversos trabalhos, a grande maioria sendo de pequeno porte, como correção de bugs, criação de pequenas funcionalidades ou alterações de algumas funcionalidades de sistemas já desenvolvidos.
 
 ## Formação Acadêmica
 
