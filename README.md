@@ -12,7 +12,7 @@ Desenvolvedor Back-end PHP
 
 ## Habilidades e Conhecimentos
 
-###Habilidades Interpessoais
+### Habilidades Interpessoais
 * Curioso
 * Empático
 * Metódico
@@ -24,7 +24,7 @@ Desenvolvedor Back-end PHP
 * Português - Fluente/Nativo
 * Inglês - Leitura Avançada, Escrita Intermediária
 
-###Conhecimento Técnico
+### Conhecimento Técnico
 * PHP (4 anos)
 * MySQL (4 anos)
 * PostgreSQL (1 ano)
